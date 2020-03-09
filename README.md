@@ -4,7 +4,7 @@ Durant ce dojo, aucune requête SQL ne doit être écrite. Tout doit être réal
 
 ## Création du schéma
 Dans ce dojo tu devras créer le schéma de base de données suivant en utilisant l'approche Code-First de Entity Framework:
-![https://github.com/WildCodeSchool/CSharp-dojo-ef6-LINQ/blob/master/dbdiagram.png]
+![Diagramme de base de données](https://github.com/WildCodeSchool/CSharp-dojo-ef6-LINQ/blob/master/dbdiagram.png)
 
 ## Le jeu de données de test
 
